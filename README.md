@@ -1,15 +1,8 @@
 # Olá, eu sou o Sílvio Ribas! 👋
 
-Seja bem-vindo ao meu perfil do GitHub. Atualmente, estou imerso no ecossistema de desenvolvimento **Front-End**, focado em construir interfaces modernas, acessíveis e responsivas.
+Seja bem-vindo ao meu perfil do GitHub. Atualmente, estou imerso no ecossistema de desenvolvimento Front-End, focado em construir interfaces modernas, acessíveis e responsivas.
 
 ---
-
-## 🚀 **Minha Jornada Atual**
-
-Estou dedicando meus estudos diariamente para dominar as principais tecnologias do mercado web, evoluindo do design estrutural até a componentização e estados:
-<br />
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 Aqui estão as tecnologias que venho aplicando nos meus projetos de estudo:
@@ -23,11 +16,17 @@ Aqui estão as tecnologias que venho aplicando nos meus projetos de estudo:
 
 ---
 
-* **Fundamentos Sólidos:** HTML5 semântico e CSS3 (Layouts com Flexbox e Grid).
-* **Dinamismo e Lógica:** JavaScript puro (ES6+), manipulação do DOM e consumo de APIs.
-* **Modernização:** Ecossistema React para criação de aplicações SPA e componentizadas.
+## 🚀 Minha Jornada Atual
+
+Estou dedicando meus estudos diariamente para dominar as principais tecnologias do mercado web, evoluindo do design estrutural até a componentização e estados:
+
+* **Fundamentos Sólidos**: HTML5 semântico e CSS3 (Layouts com Flexbox e Grid).
+* **Dinamismo e Lógica**: JavaScript puro (ES6+), manipulação do DOM e consumo de APIs.
+* **Modernização**: Ecossistema React para criação de aplicações SPA e componentizadas.
 
 ---
+
+
 
 ## 🌐 Conecte-se Comigo
 
